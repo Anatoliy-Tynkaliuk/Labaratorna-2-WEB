@@ -43,8 +43,8 @@ button:hover {
 }
 
 .image {
-    width: 375px;
-    height: 350px;
+    min-width: 375px;
+    min-height: 350px;
     overflow: clip;
 }
 .nav_image {
@@ -82,10 +82,6 @@ button:hover {
     transform: scale(1.05); 
     transition: transform 0.3s ease-in-out;
 }
-
-
-
-
 
 .name {
     font-size:30px;
