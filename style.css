@@ -43,8 +43,8 @@ button:hover {
 }
 
 .image {
-    min-width: 375px;
-    min-height: 350px;
+    width: 375px;
+    height: 350px;
     overflow: clip;
 }
 .nav_image {
